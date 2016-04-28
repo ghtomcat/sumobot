@@ -1,5 +1,7 @@
 # sumobot
 
+New sideparts that can be used with MG-6-48 DC-Motors: https://www.olimex.com/Products/RobotParts/GearMotors/MG-6-48/
+
 Based on https://github.com/makenai/sumobot-jr
 
 ## License
