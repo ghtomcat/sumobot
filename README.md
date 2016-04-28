@@ -4,6 +4,8 @@ New sideparts that can be used with MG-6-48 DC-Motors: https://www.olimex.com/Pr
 
 The ballcasters can be used with these 15mm balls from Conrad: http://www.conrad.ch/ce/de/product/220759/Modelcraft-220759-Stahlkugeln-15-mm
 
+The radhalter (german for wheel holder) parts are newly designed. They fit over the motor axles to attach the Wheels.
+
 Based on https://github.com/makenai/sumobot-jr
 
 ## License
